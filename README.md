@@ -11,3 +11,8 @@ Iteration-02
 I have added a new News marquee part to the website and also improvised the previous edits.
 The School info Boxes are currently being worked on. I have completed the School Calendar part.
 But the Recent Events and Announcement Boxes are yet to be finished.
+
+Iteration-03
+I have succesfully completed the 3 boxes of information with all the required CSS features. 
+Suggestions to improve it are always welcome.
+Then based on the design I have started the next section where till now I have completed the photo part.
