@@ -16,3 +16,7 @@ Iteration-03
 I have succesfully completed the 3 boxes of information with all the required CSS features. 
 Suggestions to improve it are always welcome.
 Then based on the design I have started the next section where till now I have completed the photo part.
+
+Iteration 04
+I have completed another section which signifies the completion of the About US box and the photo of our school.
+This has been done with accordance to the design sent.
